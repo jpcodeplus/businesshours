@@ -1,0 +1,15 @@
+{
+    "name": "cpm/businesshours",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jpcodeplus",
+            "email": "behrens.codeplus@gmail.com"
+        }
+    ],
+    "require": {}
+}
